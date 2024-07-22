@@ -1,0 +1,7 @@
+{
+  "name": "example",
+  "description": "An application that uses other Internal Packages",
+  "scripts": {
+    "example": "node ./print-temp.js"
+  }
+}
